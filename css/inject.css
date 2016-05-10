@@ -1,0 +1,15 @@
+html, body{
+	overflow:hidden !important;
+}
+.logo {
+	top: 40px !important;
+}
+.login_box {
+	margin-top: -280px !important;
+}
+.lang {
+	bottom: 40px !important;
+}
+.login .copyright {
+	bottom: 40px !important;
+}

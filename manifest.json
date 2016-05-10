@@ -1,0 +1,18 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "微信 Chrome App 对网页版微信做一些界面调整及生成Chrome 桌面 APP, 更方便使用",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png"
+   },
+   "minimum_chrome_version": "37.0",
+   "name": "Wechat",
+   "author": "dany wheeler",
+   "permissions": [ "notifications", "webview", "clipboardRead", "clipboardWrite", "contextMenus", "fileSystem", "geolocation", "storage", "tts", "unlimitedStorage" ],
+   "short_name": "Wechat",
+   "version": "1.0.0"
+}
